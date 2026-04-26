@@ -20,12 +20,3 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
