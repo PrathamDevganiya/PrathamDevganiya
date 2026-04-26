@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratham Wordpress Developer</h1>
+<h1 align="center">Hi 👋, I'm Pratham Devganiya </h1>
 
 <h3 align="center">WordPress Desinger & Developer | Freelancer 🚀</h3>
 
