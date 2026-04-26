@@ -6,7 +6,7 @@
 
 ❤️ Programming | 🎵 creator 
 
-- 💬 Ask me about **WordPress, Elementor,Woocommrece, Basic SEO**
+- 💬 Ask me about **HTML5, CSS, WordPress, Elementor, Woocommrece, Basic SEO**
 - 📫 How to reach me: **devganiyapratham123@gmail.com**
 - ⚡ Fun fact: I love building websites
 
