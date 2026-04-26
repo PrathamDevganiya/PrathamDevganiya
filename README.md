@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pratham Wordpress Developer</h1>
 
-<!--
-**PrathamDevganiya/PrathamDevganiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">WordPress Desinger & Developer | Freelancer 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ Programming | 🎵 creator 
+
+- 💬 Ask me about **WordPress, Elementor,Woocommrece, Basic SEO**
+- 📫 How to reach me: **devganiyapratham123@gmail.com**
+- ⚡ Fun fact: I love building websites
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pratham-devganiya-25898b27a/" target="blank">LinkedIn</a>
+</p>
